@@ -1,6 +1,6 @@
 name: if_widget
 description: An if statement widget.
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/xlcs0110/flutter-if-widget
 
 environment:

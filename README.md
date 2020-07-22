@@ -27,4 +27,13 @@ Container(
     ))
 )
 
+/// or
+
+Container(
+    child:If(_statement,
+    builder:(context)=>GestureDetector(
+        child:FlatButton(onPressed: ()=>print('onPressed'), child: Text('Button'))
+    ))
+)
+
 ```
