@@ -2,6 +2,18 @@
 
 An if statement widget.
 
+## you never need
+
+``` dart
+bool _statement = true;
+
+Container(
+    child:_stament==true?GestureDetector(
+        child:FlatButton(onPressed: ()=>print('onPressed'), child: Text('Button'))
+    ):Container())
+)
+```
+
 ## Getting Started
 
 ```dart
