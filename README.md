@@ -1,6 +1,6 @@
 # if_widget
 
-A if statement widget.
+An if statement widget.
 
 ## Getting Started
 
